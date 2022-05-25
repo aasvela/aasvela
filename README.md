@@ -1,4 +1,8 @@
 ### Hi there 👋
+Im a front end student part time.
+IRL im a product owner/ functional architect / team lead
+
+Im learning front end to develop my skills in my profession 
 
 <!--
 **aasvela/aasvela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
